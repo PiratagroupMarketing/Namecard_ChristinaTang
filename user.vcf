@@ -7,7 +7,7 @@ ORG:PirataGroup;
 TITLE:Marketing Executive\n, Marketing Department
 EMAIL;type=INTERNET;type=WORK;type=pref:marketing@piratagroup.hk
 TEL;type=WORK;type=VOICE:+852 5340 7950
-item1.ADR;type=WORK;type=pref:;;1/F, The Factory,\nNo. 1 Yip Fat Street, Wong Chuk Hang;;;138577;Hong Kong
+item1.ADR;type=WORK;type=pref:;;1/F, The Factory,\nNo. 1 Yip Fat Street, Wong Chuk Hang;;;;Hong Kong
 item1.X-ABADR:sg
 item2.URL;type=pref:piratagroup.hk
 item2.X-ABLabel:_$!<HomePage>!$_
