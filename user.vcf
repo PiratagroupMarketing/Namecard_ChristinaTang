@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Ting;Barton;;;
-FN: Barton  Ting 
+N:Tang;Christina;;;
+FN: Christina  Tang 
 ORG:PirataGroup;
-TITLE:Marketing Executive\n, Marketing Department
-EMAIL;type=INTERNET;type=WORK;type=pref:marketing@piratagroup.hk
-TEL;type=WORK;type=VOICE:+852 5340 7950
+TITLE:Head of Marketing\n, Marketing Department
+EMAIL;type=INTERNET;type=WORK;type=pref:christina@piratagroup.hk
+TEL;type=WORK;type=VOICE:+852 9288 3752
 item1.ADR;type=WORK;type=pref:;;1/F, The Factory,\nNo. 1 Yip Fat Street, Wong Chuk Hang;;;;Hong Kong
 item1.X-ABADR:sg
 item2.URL;type=pref:piratagroup.hk
